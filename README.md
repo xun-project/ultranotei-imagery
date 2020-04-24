@@ -1,2 +1,2 @@
-# conceal-assets
-Digital asset storage for Conceal
+# ultranotei-assets
+Digital asset storage for UltraNote Infinity
